@@ -15,4 +15,5 @@ public class scripttest : MonoBehaviour {
 	void Update () {
 	
 	}
+    Debug.log ();
 }
