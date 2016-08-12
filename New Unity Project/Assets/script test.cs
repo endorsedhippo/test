@@ -4,6 +4,7 @@ using System.Collections;
 public class scripttest : MonoBehaviour {
 
      GameObject ball;
+    bool istrue;
 
 	// Use this for initialization
 	void Start () {
